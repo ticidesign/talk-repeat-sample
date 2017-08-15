@@ -1,0 +1,14 @@
+{
+  "name": "talk-repeat-sample",
+  "version": "1.0.0",
+  "description": "Talk repeat sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ticiana Andrade",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
